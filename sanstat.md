@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 
 <head>
@@ -6,6 +5,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Sanstat - Sammanfattning</title>
   <link rel="stylesheet" href="https://stackedit.io/style.css" />
+  <script type="text/javascript"
+src="https://stackedit.io/libs/MathJax/MathJax.js?config=TeXAMS_HTML"></script>
 </head>
 
 <body class="stackedit">
